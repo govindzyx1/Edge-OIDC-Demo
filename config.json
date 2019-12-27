@@ -1,0 +1,7 @@
+{
+  "sessionApi" : {
+    "apikey" : "SESSION_API_KEY_GOES_HERE"
+  },
+  "localUserDb" : "../config/localUserDb.js",
+  "authSystem" : "local"
+}
